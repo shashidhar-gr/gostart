@@ -1,0 +1,2 @@
+# gostart
+Go initial programs!!
